@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student since 2023, advised by [Prof.Peidong Liu](https://scholar.google.com/citations?user=XZczNEEAAAAJ), at the School of Engineering, [Westlake University](https://en.westlake.edu.cn//) in collaboration with [Zhejiang University](https://www.zju.edu.cn/english/), Hangzhou, China. My research mainly focus on foundational topics in 1) 3D Computer Vision 2) Machine Learning and 3) Optimization, recently involving Optimal Transport, Geometry, and Generative Model. Open to collaboration! 😊
+I am currently a master student since 2022, advised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en), at the College of Computer Science and Electronic Engineering, [Hunan University](https://www.hnu.edu.cn/) (HNU), Hunan, China. My research interests are in the area of 3D Computer Vision. Open to collaboration! 😊
 
-Previously, I obtained my Bachelor's degree in the College of Electrical and Information Engineering from [Hunan University](http://www-en.hnu.edu.cn/), Changsha, China.
 
 
 ## News
