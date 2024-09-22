@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2024-RSL-BA
 date: 2024-07-02
 venue: "ECCV"
-authors: " Yongcong Zheng∗ , <b>Bangyan Liao∗</b> , Yifei Xue, Chen Lu, Peidong Liu, Yizhen Lao"
+authors: "<b>Yongcong Zheng∗</b> , Bangyan Liao∗, Yifei Xue, Chen Lu, Peidong Liu, Yizhen Lao"
 url: 
 project: 
 bibtex: 
-arxiv: 
-openpdf: 
+arxiv: http://arxiv.org/abs/2408.05409
+openpdf: http://arxiv.org/abs/2408.05409
 supp: 
 teaser: images/2024_RSL_BA.png
 videoresults: 
