@@ -22,14 +22,10 @@ I am currently a master student since 2022, advised by [Prof.Yizhen Lao](https:/
 
 
 ## Teaching
-
 <style style="text/css"> .news{font-size:0.75em;} </style>
-
 {% include teaching.html %}
 
 
 ## Honors
-
 <style style="text/css"> .news{font-size:0.75em;} </style>
-
 {% include honors.html %}
