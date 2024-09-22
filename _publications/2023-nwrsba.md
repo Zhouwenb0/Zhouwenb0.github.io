@@ -6,7 +6,7 @@ date: 2023-10-01
 venue: "ICME"
 authors: "<b>Yongcong Zheng∗</b>, Yifei Xue*, Ming Liao, Huiqing Zhang, Yizhen Lao†"
 url: 
-bibtex: files/2023_dfr.txt
+bibtex: 
 openpdf: https://arxiv.org/pdf/2307.05129
 arxiv: [https://arxiv.org/pdf/2307.05129]
 supp: 
