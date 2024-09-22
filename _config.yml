@@ -12,9 +12,9 @@ title                    : "Yongcong Zhang"
 title_separator          : "-"
 name                     : &name "Bangyan Liao"
 description              : &description "personal homepage"
-url                      : https://bangyan101.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangtaxue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bangyan101/bangyan101.github.io"
+repository               : "zhangtaxue/zhangtaxue.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "bangyan101/bangyan101.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bangyan Liao"
+  name             : "Yongcong Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Westlake University"
   location         : "China"
