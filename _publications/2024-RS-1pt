@@ -7,8 +7,8 @@ venue: "TIV"
 authors: "<b>Yongcong Zhang</b>, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, Yizhen Lao†"
 url: 
 project:
-bibtex: files/2024-RS-1pt.txt
-arxiv:
+bibtex: 
+arxiv: https://ieeexplore.ieee.org/abstract/document/10620617
 openpdf: https://ieeexplore.ieee.org/abstract/document/10620617
 supp: 
 teaser: images/2024-RS-1pt.png
