@@ -2,9 +2,9 @@
 title: "Ego-motion Estimation for Vehicles with a Rolling Shutter Camera"
 collection: publications
 permalink: /publication/2024-RS-1pt
-date: 2024-08-01
+date: 2024-08-02
 venue: "TIV"
-authors: "Yongcong Zhang, <b>Bangyan Liao</b>, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, Yizhen Lao"
+authors: "<b>Yongcong Zhang</b>, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, Yizhen Lao"
 url: 
 project:
 bibtex: files/2024-RS-1pt.txt
