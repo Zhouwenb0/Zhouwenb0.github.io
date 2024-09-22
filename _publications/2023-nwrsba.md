@@ -1,20 +1,17 @@
 ---
-title: "Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution"
+title: "DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption"
 collection: publications
 permalink: /publication/2023-nwrsba
-date: 2023-03-17
-venue: "CVPR"
-authors: " <b>Bangyan Liao*</b>, Delin Qu*, Yifei Xue, Huiqing Zhang, Yizhen Lao"
+date: 2023-10-01
+venue: "ICME"
+authors: "<b>Yongcong Zhang$^{*}$</b>, Yifei Xue$^*$, Ming Liao, Huiqing Zhang, Yizhen Lao$^{†}$"
 url: 
-project: https://delinqu.github.io/NW-RSBA/ 
-bibtex: files/2023_nwrsba.txt
-arxiv: https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_Revisiting_Rolling_Shutter_Bundle_Adjustment_Toward_Accurate_and_Fast_Solution_CVPR_2023_paper.pdf
-openpdf: https://openaccess.thecvf.com/content/CVPR2023/papers/Liao_Revisiting_Rolling_Shutter_Bundle_Adjustment_Toward_Accurate_and_Fast_Solution_CVPR_2023_paper.pdf
+bibtex: files/2023_dfr.txt
+arxiv: [https://arxiv.org/pdf/2307.05129]
 supp: 
-teaser: images/2023_nwrsba.png
+teaser: images/2023_dfr.png
 videoresults: 
 videotalk: 
 poster: 
-code: https://github.com/DelinQu/NW-RSBA
-primal: true
+code: [https://github.com/zhangtaxue/DFR]
 ---
