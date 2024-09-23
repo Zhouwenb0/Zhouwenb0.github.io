@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student since 2022, advised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en), at the College of Computer Science and Electronic Engineering, [Hunan University](https://www.hnu.edu.cn/) (HNU), Hunan, China. My research interests lie in rolling shutter cameras and 3D Computer Vision, with a particular focus on multi-view geometry, SLAM, and Structure from Motion. You can find my CV here: [Yongcong Zhang's Curriculum Vitae](cv.pdf). Open to collaboration! 😊
+I am currently a master student since 2022, advised by [Prof.Yizhen Lao](https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en), at the College of Computer Science and Electronic Engineering, [Hunan University](https://www.hnu.edu.cn/) (HNU), Hunan, China. My research interests lie in rolling shutter camera and 3D Computer Vision, with a particular focus on multi-view geometry, SLAM, and structure from motion. You can find my CV here: [Yongcong Zhang's Curriculum Vitae](cv.pdf). Open to collaboration! 😊
 
 
 
