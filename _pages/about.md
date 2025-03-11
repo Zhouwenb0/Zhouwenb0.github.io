@@ -14,7 +14,6 @@ I'm a third-year undergraduate student at the [College of Information Science an
 I am fortunate to be a member of the **3DV-Lab** at Hunan University, advised by [Prof. Yizhen Lao](https://yizhenlao.github.io/).  
 
 📄 **[My CV](../assets/Curriculum_Vitae.pdf)**  
-
 📧 **[Email](mailto:zn2202zhouwenbo@hnu.edu.cn)**  
 🔗 **[GitHub](https://github.com/Zhouwenb0) • [CSDN](https://blog.csdn.net/weixin_73906822)**  
 
