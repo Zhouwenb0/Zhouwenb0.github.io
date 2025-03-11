@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
+## About Me
 
 I'm a third-year undergraduate student at the [College of Information Science and Engineering](http://csee.hnu.edu.cn), [Hunan University](https://www.hnu.edu.cn/). My research interests include **computer graphics, computer vision, and machine learning**.  
 
