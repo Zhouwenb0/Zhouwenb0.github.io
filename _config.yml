@@ -21,7 +21,7 @@ repository               : "Zhouwenb0/zhouwenb0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Wenbo Zhou"
   pronouns         : # example: "she/her"  
   bio              : "CS Undergraduate | Computer Graphics & Vision | 3DV-Lab"
