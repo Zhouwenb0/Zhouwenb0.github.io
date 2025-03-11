@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Yongcong Zhang"
+title                    : "Wenbo Zhou"
 title_separator          : "-"
-name                     : &name "Yongcong Zhang"
-description              : &description "Master of Hunan University"
-url                      : https://zhangtaxue.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Wenbo Zhou"
+description              : &description "CS Undergraduate | Computer Graphics & Vision | 3DV-Lab"
+url                      : https://zhouwenb0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangtaxue/zhangtaxue.github.io"
+repository               : "Zhouwenb0/zhouwenb0.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,19 +22,19 @@ repository               : "zhangtaxue/zhangtaxue.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yongcong Zhang"
+  name             : "Wenbo Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Master student in Hunan University"
+  bio              : "CS Undergraduate | Computer Graphics & Vision | 3DV-Lab"
   location         : "Hunan, China"
   employer         : "Hunan University"
   uri              : # URL
-  email            :  "yongcongzhang@hnu.edu.cn"
+  email            :  "zn2202zhouwenbo@hnu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=wLqiDUIAAAAJ"
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : #
+  orcid            : "https://orcid.org/0009-0006-2386-9755"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "zhangtaxue"
+  github           : "Zhouwenb0"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
